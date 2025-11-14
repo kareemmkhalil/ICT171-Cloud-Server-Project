@@ -4,7 +4,7 @@
 **Student Number:** 35729084  
 **Public IP:** 13.48.26.137  
 **Domain Name:** https://kareemcloudserver.online  
-**Video Link:** *(Add after recording)*  
+**Video Link:**  
 
 ---
 
@@ -213,7 +213,7 @@ The video will demonstrate:
 - Running the custom script  
 - Verifying everything works  
 
-**Video Link:** *(Add here after recording)*
+**Video Link:** 
 
 ---
 
